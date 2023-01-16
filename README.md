@@ -10,7 +10,7 @@ I've connected the Graph API using Apollo client (I read the documentation)
 
 2. Fetching the posts data
 
-Using query I fetch all the posts data in a file called graph.js and then I exported in order to used in the main app component.
+Using query I fetch all the posts data in a file called graph.js and then I exported in order to used be in the main app component.
 
 3. Calculating the number of posts per month
 
